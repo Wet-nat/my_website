@@ -31,7 +31,6 @@ export const Projects = () => {
                     <Col>
                         <h2>Projects</h2>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.</p>
-                        import Nav from 'react-bootstrap/Nav';
                         <Tab.Container id="project-tabs" defaultActiveKey="first">
                         <Nav variant="pills" defaultActiveKey="/home">
                             <Nav.Item>
